@@ -25,12 +25,12 @@ I'm a Computer Science student passionate about learning programming and buildin
 
 ## 🚀 My Projects
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| HTML Practice | Practicing HTML elements, forms, and tables | Learning |
-| Personal Portfolio | Planning a website to showcase my work | Planned |
-| JavaScript Practice | Learning programming logic and interactivity | Learning |
-| C++ Practice | Strengthening programming fundamentals | Learning |
+| Project | Description | Link |
+|---|---|---|
+| HTML Practice | Practicing HTML elements, forms, and tables | [View Project](https://github.com/Abay47?tab=repositories) |
+| Personal Portfolio | A personal website showcasing my work | [View Project](https://github.com/Abay47?tab=repositories) |
+| JavaScript Practice | Practicing JavaScript fundamentals | [View Project](https://github.com/Abay47?tab=repositories) |
+| C++ Practice | Practicing programming fundamentals | [View Project](https://github.com/Abay47?tab=repositories) |
 
 ---
 
